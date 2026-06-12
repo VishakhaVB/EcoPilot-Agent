@@ -153,6 +153,8 @@ npm run build
 
 This project is fully compatible with Model Context Protocol (MCP) servers. Utilizing a MongoDB MCP Server (e.g. `@smithery/mcs-mongodb` or standard mongo-mcp), agents can connect directly to your database endpoint (`MONGODB_URI`) to query and interact with user details, footprint metrics, and action plans.
 
+---
+
 ### Sample MCP Commands:
 *   **List Databases**: Check for `ecopilot` database.
 *   **Query User Profile**: Find onboarding choices for a session:
