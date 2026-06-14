@@ -164,4 +164,4 @@ This project is fully compatible with Model Context Protocol (MCP) servers. Util
       "query": { "sessionId": "session_xxx" }
     }
     ```
-*   **Generate Global Analytics**: Aggregate emissions averages across all sessions in the `carbon_logs` collection to gauge community impact.
+*   **Generate Global Analytics**: Aggregate emissions averages across all sessions in the `carbon_logs` collection to gauge community impact..
